@@ -1,0 +1,9 @@
+//prog5
+#include <stdio.h>
+int main(){
+  char meigen[] = "meigen";
+  int i;
+  for(i = 0; i <= 10; i++){
+    printf("%s\n", meigen);
+  }
+}
